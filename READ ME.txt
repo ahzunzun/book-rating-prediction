@@ -1,1 +1,2 @@
-Run jupyter notebook with --NotebookApp.iopub_data_rate_limit=1.0e10
+Instructions to run 
+1. Run jupyter notebook with --NotebookApp.iopub_data_rate_limit=1.0e10
